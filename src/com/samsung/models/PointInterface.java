@@ -7,9 +7,6 @@ public interface PointInterface {
 
     String toString();
 
-    int compareX(Point a, Point b);
-
-    int compareY(Point a, Point b);
 
     double distanceSq(Point pt);
 
